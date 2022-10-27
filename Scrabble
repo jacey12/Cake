@@ -33,8 +33,7 @@ else if (score1 == score2)
 }
 }
 
-// tally the score and return
-// POINTS[] is calculated by taking subtracting the base number for 'A' and 'a'.
+
 int compute_score(string word)
 {
 int score = 0;
